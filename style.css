@@ -1,0 +1,39 @@
+body {
+  padding: 10px;
+}
+
+#personal {
+  background-color: khaki;
+  width: 600px;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#education {
+  background-color: burlywood;
+  width: 600px;
+  margin: auto;
+  border: 1px solid black;
+}
+
+#disp {
+  width: 600px;
+  margin: auto;
+}
+
+form {
+  padding: 20px 20px 20px 20px;
+}
+
+form div {
+  width: 500px;
+  margin: auto;
+}
+
+.btn {
+  margin-left: 220px;
+}
+
+table {
+  border-collapse: collapse
+}
